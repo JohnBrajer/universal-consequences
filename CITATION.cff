@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Universal Consequences by John Brajer"
 abstract: "Universal Consequences by John Brajer: local actions propagating through nested interacting mechanisms."
 type: software
+doi: "10.5281/zenodo.23718123"
 authors:
   - family-names: Brajer
     given-names: John
