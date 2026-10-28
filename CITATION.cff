@@ -1,11 +1,24 @@
 cff-version: 1.2.0
-message: "If you reference this framework, cite this repository and John Brajer as creator."
-title: "Universal Consequences"
-type: dataset
+message: "If you use or reference this work, please cite it as below."
+title: "Universal Consequences by John Brajer"
+abstract: "Universal Consequences by John Brajer: local actions propagating through nested interacting mechanisms."
+type: software
 authors:
-  - family-names: "Brajer"
-    given-names: "John"
-version: "0.1"
-date-released: "2026-09-25"
-url: "https://github.com/JohnBrajer/universal-consequences"
+  - family-names: Brajer
+    given-names: John
+    orcid: "https://orcid.org/0009-0004-0113-1341"
+    affiliation: "Trillsverse LLC"
+    website: "https://trillsverse.com"
 repository-code: "https://github.com/JohnBrajer/universal-consequences"
+url: "https://www.mymindmine.com"
+keywords:
+  - "Brajology"
+  - "John Brajer"
+  - "Trillsverse"
+  - "choseverse"
+  - "complex-systems"
+  - "intelligence-injections"
+  - "john-brajer"
+  - "systems-thinking"
+  - "trillsverse"
+  - "universal-consequences"
